@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Video downloads
+*.mp4
+*.webm
+*.mkv
+*.avi
+
+# Subtitle files
+*.srt
+*.vtt
